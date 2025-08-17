@@ -1,5 +1,5 @@
 ---
-title: 'How Hack Club took over my Summer'
+title: 'The Summer of Hacking Experience'
 pubDate: '2025-08-17'
 ---
 
@@ -38,8 +38,29 @@ The entirety of May was spent building a solid foundation for the API, with litt
 
 ## Accelerating
 
+I somehow managed to managed to log <u>60 hours</u> of VSCode in three weeks while finishing up my application. It was during my internship too, which was not an ideal combination for my mental health. Nevertheless, I accelerated my building speed and was able to ship a *buggy but very proud* project before my flight!
 
+In total, I shipped 23 devlogs with each one averaging 2.6 hours.
+
+![Week 1: 22.5 hours, Week 2: 26.8 hours, Week 3: 10.7 hours](./assets/hackatime.jpg)
+
+The project got rejected 2 times and it took additional 3.5 hours for me to fix it up before finally getting that ship certification ☺️. I received 992 coins as my reward, which is around the average amount this project should give:
+
+$$
+\begin{equation}
+coins = 15 * hours
+\end{equation}
+$$
+
+The multiplier ranges from 1 to 30, depending on how many votes the project gets.
+
+![Various items to buy with coins](./assets/stuff.jpg)
+
+## The Community
+
+I had a lot of fun talking to other participants in Summer of Making, as well as seeing the various projects that people have built in those months. They were all supportive and I would like to thank the Hack Club team for supporting teenagers like me, who love building stuff.
 
 ## Sources
 - [Summer of Making Art from GitHub](https://github.blog/news-insights/introducing-hack-clubs-summer-of-making)
 
+*And of course, this blog was also built for Summer of Making 😉*
