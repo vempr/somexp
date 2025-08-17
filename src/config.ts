@@ -3,7 +3,7 @@ import type { ThemeConfig } from './types'
 export const themeConfig: ThemeConfig = {
   // SITE INFO ///////////////////////////////////////////////////////////////////////////////////////////
   site: {
-    website: 'https://vempr.github.io/somexp', // Site domain
+    website: 'https://vempr.github.io', // Site domain
     title: 'V-LOG (est. 17.08.2025)', // Site title
     author: 'vempr', // Author name
     description: 'Minimal blog built by Astro', // Site description
